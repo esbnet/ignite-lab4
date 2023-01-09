@@ -15,3 +15,4 @@
 /notifications/:id/read, PATCH
 /notifications/:id/unread, PATCH
 /notifications, POST
+
