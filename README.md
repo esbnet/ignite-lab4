@@ -9,10 +9,10 @@
 
 ## Routes
 
-/notifications/:id/cancel
-/notifications/count/from/:recipientId
-/notifications/from/:recipientId
-/notifications/:id/read, PATCH
-/notifications/:id/unread, PATCH
-/notifications, POST
+- /notifications/:id/cancel
+- /notifications/count/from/:recipientId
+- /notifications/from/:recipientId
+- /notifications/:id/read, PATCH
+- /notifications/:id/unread, PATCH
+- /notifications, POST
 
